@@ -1,6 +1,6 @@
 ### Hi there, I’m Ratnaraj 👋
 
-## I am a Student, Developer and Tech Enthusiast.
+## I am a Software Engineer and a Tech Enthusiast.
 ---
 + 👀 I’m interested in Full Stack Development 
 + 🌱 I’m currently learning Backend Development
