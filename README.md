@@ -5,7 +5,7 @@
 + 👀 I’m interested in Full Stack Development 
 + 🌱 I’m currently learning Backend Development
 + 💞️ I’m looking to collaborate with other developers
-+ ⚡ Fun fact: I love watching anime and playing dota 2.
++ ⚡ I love watching anime and playing dota 2.
 
 ### Connect with me
 
